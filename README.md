@@ -1,73 +1,103 @@
-# Hey there! 👋 I'm @North-Abyss
+# 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
-🚀 **Interests:**  
-- Building immersive 2D pixel art games with Java and advanced game mechanics.  
-- Optimizing tile-based maps and collision detection for smooth gameplay experiences.  
-- Exploring efficient algorithms and system designs in game development.
-
-💻 **Currently Learning:**  
-- Advanced pathfinding algorithms and pixel-perfect collision detection.  
-- Improving performance in mobile-based games and asset management systems.  
-- Integrating modern UI/UX principles in game interfaces.  
-- Java application and implementation in cross-platform and local co-op offline games.
-
-🤝 **Open to Collaborate On:**  
-- Indie game projects, particularly focused on Zelda-style mechanics and RPG design.  
-- Educational platforms related to environmental conservation (especially groundwater management).  
-- Asset management tools for mobile and handheld devices.
+🎮 I’m a passionate game developer and tech enthusiast with a strong focus on **2D pixel-art games**, system-level optimizations, and AI-assisted tools. I love bringing immersive game mechanics to life, crafting seamless user experiences, and solving technical challenges through efficient algorithms.
 
 ---
 
-## 🛠️ **Technologies & Tools I Use**  
-- **Languages:** Java, Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** OpenCV, Pygame, Streamlit, React, Node.js  
-- **Tools:** Git, GitHub, Visual Studio Code, Eclipse, IntelliJ IDEA  
-- **Databases:** MySQL, Firebase  
-- **Other:** Unity (for 2D games), Android Studio, Flask
+## 🚀 Interests
+
+- 🎮 Building immersive **2D pixel-art games** using Java  
+- 🧠 Creating **smart algorithms** for pathfinding, collision, and asset management  
+- 🌱 Exploring **game system design** and cross-platform performance  
+- 🌐 Designing **eco-focused tools** like groundwater education games and simulations  
 
 ---
 
-## 📈 **GitHub Stats**
+## 💻 Currently Learning
+
+- Pixel-perfect collision detection  
+- A\* and other pathfinding algorithms  
+- Mobile game performance optimization  
+- Offline co-op game architecture in Java  
+- UI/UX in game development  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Indie game projects (especially **Zelda-style RPGs**)  
+- Game-based learning tools or environmental simulations  
+- Game optimization and asset delivery systems  
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:**  
+`Java` · `Python` · `JavaScript` · `HTML/CSS`
+
+**Libraries & Frameworks:**  
+`OpenCV` · `Pygame` · `React` · `Node.js` · `Streamlit`
+
+**Tools:**  
+`VS Code` · `Git` · `GitHub` · `Eclipse` · `IntelliJ` · `Android Studio`
+
+**Game & App Dev:**  
+`Unity (2D)` · `Firebase` · `Flask` · `MySQL`
+
+---
+
+## 📈 GitHub Stats
 
 ![North-Abyss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=North-Abyss&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 📂 **My Notable Repositories**  
-Here are some repositories that showcase my projects and contributions:
+## 🗂️ Featured Projects
 
-### 1. **[Color Picker App](https://github.com/North-Abyss/Color-Picker-App-KSY)**  
-A color detection tool that allows users to upload an image, click on any point, and see the closest matching color’s name and its RGB values.
+### 🎨 [Color Picker App](https://github.com/North-Abyss/Color-Picker-App-KSY)  
+Detect colors in uploaded images with real-time RGB and color name feedback.
 
-### 2. **[Pixel Art RPG Game](https://github.com/North-Abyss/Pixel-Art-RPG-Game)**  
-A 2D RPG game where I experiment with tile-based systems, and RPG mechanics using Java. Features include a custom battle system and tile-based map.
+### 🕹️ [2D Pixel Art RPG Game](https://github.com/North-Abyss/2D-crossplatform-RPG-Game)  
+A Java-based pixel RPG featuring tile-based mechanics and custom battle systems.
 
-### 3. **[Abyss: RPG Adventure](https://github.com/North-Abyss/Abyss-RPG-Game)**  
-An ongoing RPG project blending adventure, strategy, and exploration, designed with a custom tile-based system. The project includes developing quest systems, enemy AI, and character progression.
+### 🧬 [AI Disease Prediction](https://github.com/North-Abyss/NM-AI-powered-disease-prediction-based-on-patient-data)  
+AI-powered tool for predicting diseases based on user input — built with Python.
 
-### 4. **[Game Optimizer](https://github.com/North-Abyss/Game-Optimizer)**  
-A tool I created to analyze game performance for mobile games, providing suggestions for optimization in graphics, memory usage, and asset management.
-
-### 5. **[Groundwater Conservation Education Platform](https://github.com/North-Abyss/Groundwater-Platform)**  
-A platform that educates users about groundwater conservation. I’ve built it using React and integrated educational tools.
+### 🤖 [AI Hackathon Project](https://github.com/North-Abyss/Hackathon)  
+Customer Support AI Model ChatBot using Ollama & Python.
 
 ---
 
-## 📬 **Reach Me:**  
+## 🏅 Certifications & Highlights
+
+> *Participation & Experience Highlights*
+
+- 🛰️ **NASA Space Apps Challenge** – Participant  
+- 💻 **GFG Vultr Hackathon** – Participant  
+- 🏆 **Mira Premier League (MPL)** – College Hackathon Participant  
+- ☁️ **Oracle Cloud Infrastructure** – Badge Earned  
+
+---
+
+## 📬 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YuvaneshKS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvaneshks)  
 [![Google Developer](https://img.shields.io/badge/Google%20Dev-NorthAbyss-red?style=flat&logo=google)](https://g.dev/NorthAbyss)
 
 ---
 
-## ✨ **Fun Fact:**  
-I’m working on a game titled *Abyss* — blending adventure, strategy, and exploration with a custom tile-based system as an RPG Pixel Game! It will have an engaging storyline, interactive environments, and challenging puzzles.
+## ✨ Fun Fact
+
+I'm building a 2D pixel RPG titled **"Abyss"**, blending adventure, puzzles, and strategy with a hand-crafted tile system. It's my vision of storytelling through classic gameplay!
 
 ---
 
-## 🌱 **Growth & Learning**  
-- Currently exploring **pathfinding algorithms** like A* for efficient navigation in games.
-- Working on **game asset management** to ensure optimized loading times and smooth transitions.
-- Improving my understanding of **mobile development** for cross-platform gaming experiences.
+## 🌱 Always Growing
+
+- Learning how to **design smarter worlds** (AI + simulation)  
+- Exploring **cloud-powered game analytics**  
+- Diving deeper into **real-time multiplayer and co-op mechanics**
 
 ---
 
