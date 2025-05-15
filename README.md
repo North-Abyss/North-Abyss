@@ -37,13 +37,13 @@
 `Java` · `Python` · `JavaScript` · `HTML/CSS`
 
 **Libraries & Frameworks:**  
-`OpenCV` · `Pygame` · `React` · `Node.js` · `Streamlit`
+`OpenCV` · `Pygame` · `React` · `Streamlit`
 
 **Tools:**  
 `VS Code` · `Git` · `GitHub` · `Eclipse` · `IntelliJ` · `Android Studio`
 
 **Game & App Dev:**  
-`Unity (2D)` · `Firebase` · `Flask` · `MySQL`
+`Firebase` · `Flask` · `PLSQL` · `SQL` 
 
 ---
 
