@@ -42,7 +42,7 @@
 **Tools:**  
 `VS Code` · `Git` · `GitHub` · `Eclipse` · `IntelliJ` · `Android Studio`
 
-**Game & App Dev:**  
+**App Dev:**  
 `Firebase` · `Flask` · `PLSQL` · `SQL` 
 
 ---
