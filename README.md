@@ -1,5 +1,14 @@
 # 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuvaneshKS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvaneshks)  
+[![Google Developer](https://img.shields.io/badge/Google%20Dev-NorthAbyss-red?style=flat&logo=google)](https://g.dev/NorthAbyss)
+
+---
+
 🎮 I’m a passionate game developer and tech enthusiast with a strong focus on **2D pixel-art games**, system-level optimizations, and AI-assisted tools. I love bringing immersive game mechanics to life, crafting seamless user experiences, and solving technical challenges through efficient algorithms.
 
 ---
@@ -77,13 +86,6 @@ Customer Support AI Model ChatBot using Ollama & Python.
 - 💻 **GFG Vultr Hackathon** – Participant  
 - 🏆 **Mira Premier League (MPL)** – College Hackathon Participant  
 - ☁️ **Oracle Cloud Infrastructure** – Badge Earned  
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuvaneshKS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvaneshks)  
-[![Google Developer](https://img.shields.io/badge/Google%20Dev-NorthAbyss-red?style=flat&logo=google)](https://g.dev/NorthAbyss)
 
 ---
 
