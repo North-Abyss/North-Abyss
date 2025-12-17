@@ -1,5 +1,3 @@
-https://github.com/North-Abyss
-
 # 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
 ---
