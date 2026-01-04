@@ -66,7 +66,7 @@ I am a **versatile developer** who doesn't believe in choosing just one path. I 
 
 | Project | Type | Description |
 | :--- | :---: | :--- |
-| **[Enterprise Home Lab](https://north-abyss.github.io/Portfolio/)** | 🐧 **SysAdmin** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch. |
+| **Enterprise Home Lab** | 🐧 **SysAdmin** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch. |
 | **[Wave of Fate](https://github.com/North-Abyss/wave-of-fate)** | 🎮 **Game Dev** | 2D Platformer with custom physics built in Godot (Game Off 2025). |
 | **[Wind Energy Dashboard](https://github.com/North-Abyss/Wind-Energy-Feasibility-Dashboard)** | 📊 **Data** | Interactive map for green energy analysis using Python & Streamlit. |
 | **[Vampire Survivor Clone](https://github.com/North-Abyss/1st-GODOT-Game)** | 🎮 **Game Dev** | Procedural enemy generation and survival mechanics in Godot 4. |
