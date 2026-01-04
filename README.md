@@ -1,110 +1,78 @@
+<div align="center">
+
 # 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
----
+<p align="center">
+  <a href="https://north-abyss.github.io/Portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/portfolio.svg" width="60px" alt="Portfolio" style="margin-right: 20px"/></a>
+  <a href="https://www.linkedin.com/in/yuvaneshks/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/linkedin.svg" width="60px" alt="LinkedIn" style="margin-right: 20px"/></a>
+  <a href="https://github.com/North-Abyss" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/github.svg" width="60px" alt="GitHub" style="margin-right: 20px"/></a>
+  <a href="https://north-abyss.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/itch-io.svg" width="60px" alt="Itch.io" style="margin-right: 20px"/></a>
+  <a href="https://g.dev/NorthAbyss" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/google-g-2015.svg" width="60px" alt="Google Dev" style="margin-right: 20px"/></a>
+  <a href="mailto:yuvaneshkarunakaran@gmail.com"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/gmail.svg" width="60px" alt="Gmail" style="margin-right: 20px"/></a>
+</p>
 
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YuvaneshKS-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvaneshks)
-[![Itch.io](https://img.shields.io/badge/Itch.io-North_Abyss-fa5c5c?style=flat&logo=itch.io&logoColor=white)](https://north-abyss.itch.io/)
-[![Google Developer](https://img.shields.io/badge/Google%20Dev-NorthAbyss-red?style=flat&logo=google)](https://g.dev/NorthAbyss)
-
----
-
-🎮 I’m a passionate game developer and tech enthusiast with a strong focus on **2D pixel-art games**, system-level optimizations, and AI-assisted tools. I love bringing immersive game mechanics to life, crafting seamless user experiences, and solving technical challenges through efficient algorithms.
-
----
-
-## 🚀 Interests
-
-- 🎮 Building immersive **2D pixel-art games** using **Godot** & Java
-- 🧠 Creating **smart algorithms** for pathfinding, collision, and asset management
-- 🌱 Exploring **game system design** and cross-platform performance
-- 🌐 Designing **eco-focused tools** like groundwater education games and simulations
+</div>
 
 ---
 
-## 💻 Currently Learning
+### 🚀 About Me
 
-- **Godot 4 & GDScript** advanced mechanics
-- Pixel-perfect collision detection
-- Mobile game performance optimization
-- UI/UX in game development (Figma to Game Engine workflows)
+I am a **versatile developer** who doesn't believe in choosing just one path. I bridge the gap between creative **Game Development** and robust **Enterprise Infrastructure**.
 
----
-
-## 🤝 Open to Collaborate On
-
-- Indie game projects (especially **Zelda-style RPGs**)
-- Game-based learning tools or environmental simulations
-- Game optimization and asset delivery systems
+* **System Administration:** I treat servers like puzzles—optimizing Linux kernels (Arch/Rocky), configuring KVM virtualization, and automating workflows with Bash to squeeze every drop of performance.
+* **Data Engineering:** Currently building "Lakehouse" architectures using **Databricks**, **Apache Spark**, and **SQL**.
+* **Game Development:** My roots are in code. I craft immersive 2D pixel-art games using **Godot 4** and **Java**, focusing on custom physics and efficient algorithms.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Tools
 
-**Languages:**
-`GDScript` · `Java` · `Python` · `JavaScript` · `HTML/CSS`
+**Infrastructure & Data**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch"/>
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rocky-linux&logoColor=white" alt="Rocky"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
 
-**Game Dev & Design:**
-`Godot Engine` · `Pygame` · `OpenCV` · `Figma`
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+</p>
 
-**Tools:**
-`VS Code` · `Git` · `GitHub` · `Android Studio` · `IntelliJ`
-
-**App Dev:**
-`Firebase` · `Flask` · `React` · `Streamlit` · `SQL`
-
----
-
-## 📈 GitHub Stats
-
-![North-Abyss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=North-Abyss&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🗂️ Featured Projects
-
-### 🌊 [Wave of Fate](https://github.com/North-Abyss/wave-of-fate)
-*Latest Release*
-A new game project built using **GDScript**.
-> [**Play on Itch.io**](https://north-abyss.itch.io/)
-
-### ⚔️ [1st Godot Game (Vampire Survivor Style)](https://github.com/North-Abyss/1st-GODOT-Game)
-A 2D survival game built in **Godot 4**. Features include generated trees, enemy swarms, and a scoring system.
-*Builds available for Windows, Linux, and Android.*
-
-### 🕹️ [2D Pixel Art RPG Game](https://github.com/North-Abyss/2D-crossplatform-RPG-Game)
-A Java-based pixel RPG featuring tile-based mechanics and custom battle systems.
-
-### 🍃 [Wind Energy Feasibility Dashboard](https://github.com/North-Abyss/Wind-Energy-Feasibility-Dashboard)
-Interactive map using OpenStreetMap tiles to visualize wind speed/direction and city coordinates for green energy analysis.
-
-### 🎨 [Color Picker App](https://github.com/North-Abyss/Color-Picker-App-KSY)
-Detect colors in uploaded images with real-time RGB and color name feedback.
+**Game Dev & Creative**
+<p>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ---
 
-## 🏅 Certifications & Highlights
-
-> *Participation & Experience Highlights*
-
-- 🛰️ **NASA Space Apps Challenge** – Participant
-- 💻 **GFG Vultr Hackathon** – Participant
-- 🏆 **Mira Premier League (MPL)** – College Hackathon Participant
-- ☁️ **Oracle Cloud Infrastructure** – Badge Earned
+### ⚡ Daily Dose of Logic
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hide_border=true" alt="Jokes Card" />
+</p>
 
 ---
 
-## ✨ Fun Fact
+### 🗂️ Featured Projects
 
-I'm building a 2D pixel RPG titled **"Wave of Fate"**, blending adventure, puzzles, and strategy with a hand-crafted tile system. It's my vision of storytelling through classic gameplay!
-
----
-
-## 🌱 Always Growing
-
-- Learning how to **design smarter worlds** (AI + simulation)
-- Exploring **cloud-powered game analytics**
-- Diving deeper into **real-time multiplayer and co-op mechanics**
+| Project | Type | Description |
+| :--- | :---: | :--- |
+| **[Enterprise Home Lab](https://north-abyss.github.io/Portfolio/)** | 🐧 **SysAdmin** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch. |
+| **[Wave of Fate](https://github.com/North-Abyss/wave-of-fate)** | 🎮 **Game Dev** | 2D Platformer with custom physics built in Godot (Game Off 2025). |
+| **[Wind Energy Dashboard](https://github.com/North-Abyss/Wind-Energy-Feasibility-Dashboard)** | 📊 **Data** | Interactive map for green energy analysis using Python & Streamlit. |
+| **[Vampire Survivor Clone](https://github.com/North-Abyss/1st-GODOT-Game)** | 🎮 **Game Dev** | Procedural enemy generation and survival mechanics in Godot 4. |
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F3FF,bc13fe&height=100&section=footer"/>
+</p>
