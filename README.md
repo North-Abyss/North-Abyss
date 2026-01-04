@@ -8,7 +8,6 @@
   <a href="https://github.com/North-Abyss" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/github.svg" width="60px" alt="GitHub" style="margin-right: 20px"/></a>
   <a href="https://north-abyss.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/itch-io.svg" width="60px" alt="Itch.io" style="margin-right: 20px"/></a>
   <a href="https://g.dev/NorthAbyss" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/google-g-2015.svg" width="60px" alt="Google Dev" style="margin-right: 20px"/></a>
-  <a href="mailto:yuvaneshkarunakaran@gmail.com"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/gmail.svg" width="60px" alt="Gmail" style="margin-right: 20px"/></a>
 </p>
 
 </div>
