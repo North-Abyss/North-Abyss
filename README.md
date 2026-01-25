@@ -4,7 +4,7 @@
 
 <p>
   <b>System Administrator | Game Developer r</b><br>
-  <i>(Also known as NorthAbyss )</i>
+  <i>(Also known as NorthAbyss/YuvaneshKS)</i>
 </p>
 
 <p align="center">
