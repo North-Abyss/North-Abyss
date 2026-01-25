@@ -2,6 +2,11 @@
 
 # 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
+<p>
+  <b>System Administrator | Game Developer r</b><br>
+  <i>(Also known as NorthAbyss )</i>
+</p>
+
 <p align="center">
   <a href="https://north-abyss.github.io/Portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/portfolio.svg" width="60px" alt="Portfolio" style="margin-right: 20px"/></a>
   <a href="https://www.linkedin.com/in/yuvaneshks/" target="_blank"><img src="https://raw.githubusercontent.com/North-Abyss/North-Abyss/main/Icon/linkedin.svg" width="60px" alt="LinkedIn" style="margin-right: 20px"/></a>
@@ -65,10 +70,10 @@ I am a **versatile developer** who doesn't believe in choosing just one path. I 
 
 | Project | Type | Description |
 | :--- | :---: | :--- |
-| **Enterprise Home Lab** | 🐧 **SysAdmin** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch. |
-| **[Wave of Fate](https://github.com/North-Abyss/wave-of-fate)** | 🎮 **Game Dev** | 2D Platformer with custom physics built in Godot (Game Off 2025). |
-| **[Wind Energy Dashboard](https://github.com/North-Abyss/Wind-Energy-Feasibility-Dashboard)** | 📊 **Data** | Interactive map for green energy analysis using Python & Streamlit. |
-| **[Vampire Survivor Clone](https://github.com/North-Abyss/1st-GODOT-Game)** | 🎮 **Game Dev** | Procedural enemy generation and survival mechanics in Godot 4. |
+| **<a href="https://github.com/North-Abyss/Enterprise-Home-Lab" target="_blank">Enterprise Home Lab</a>** | 🐧 **SysAdmin** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch. |
+| **<a href="https://github.com/North-Abyss/wave-of-fate" target="_blank">Wave of Fate</a>** | 🎮 **Game Dev** | 2D Platformer with custom physics built in Godot (Game Off 2025). |
+| **<a href="https://github.com/North-Abyss/Wind-Energy-Feasibility-Dashboard" target="_blank">Wind Energy Dashboard</a>** | 📊 **Data** | Interactive map for green energy analysis using Python & Streamlit. |
+| **<a href="https://github.com/North-Abyss/1st-GODOT-Game" target="_blank">Vampire Survivor Clone</a>** | 🎮 **Game Dev** | Procedural enemy generation and survival mechanics in Godot 4. |
 
 ---
 
