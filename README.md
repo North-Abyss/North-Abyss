@@ -3,7 +3,7 @@
 # 👋 Hi, I'm @North-Abyss (Yuvanesh KS)
 
 <p>
-  <b>System Administrator | Game Developer r</b><br>
+  <b>System Administrator | Game Developer | Flutter Devloper</b><br>
   <i>(Also known as NorthAbyss/YuvaneshKS)</i>
 </p>
 
