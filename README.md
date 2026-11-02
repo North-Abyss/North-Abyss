@@ -26,7 +26,7 @@ I am a **Software Engineer** specializing in Linux infrastructure, cloud systems
 
 * **🐧 Systems Administration & Infrastructure:** Managing Linux virtualization environments on **Arch** and **Rocky Linux** using **KVM/QEMU** hypervisors, **Docker** containerization, and Bash automation. Experienced in "Lakehouse" architectures using **Databricks**, **Apache Spark**, and **SQL**.
 * **📱 Cross-Platform Mobile & Web (Flutter/Dart & Design Tokens):** Building responsive, offline-first applications with scalable state management. Author of **Abyss Chat** (published on Google Play Store with WebRTC, AES-GCM, and mDNS discovery) and **Universal UI Themes** (22 zero-dependency CSS token presets).
-* **🧠 Machine Learning & Low-Latency Systems:** Engineering predictive systems with PyTorch exported to **ONNX Runtime** for high-efficiency CPU inference (~2.7ms latency in **SkyPrognos**), and exploring quantum machine learning architectures (**Q-Ternary-VQC**).
+* **⚛️ Quantum Machine Learning & Applied AI:** Researching variational quantum circuits using **PennyLane** & PyTorch (**Q-Ternary-VQC** with 3-level Qutrits), alongside fleet predictive modeling with Streamlit (**SkyPrognos**).
 * **🎮 Game Engineering:** Crafting performant 2D action platformers in **Godot 4** and **Java**, focusing on custom physics pipelines, procedural generation, and deterministic mechanics.
 
 ---
@@ -59,7 +59,7 @@ I am a **Software Engineer** specializing in Linux infrastructure, cloud systems
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/PennyLane-002D62?style=flat-square&logo=quantum&logoColor=white" alt="PennyLane"/>
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
@@ -84,7 +84,7 @@ I am a **Software Engineer** specializing in Linux infrastructure, cloud systems
 | Project | Domain | Architecture & Highlights |
 | :--- | :---: | :--- |
 | **<a href="https://play.google.com/store/apps/details?id=com.abyss.chat" target="_blank">Abyss Chat</a>** | 📱 **Mobile / P2P** | **Live on Google Play.** Cross-platform decentralized P2P messaging and video calling with WebRTC, PeerJS, mDNS LAN discovery, and AES-GCM encryption. |
-| **<a href="https://github.com/North-Abyss/SkyPrognos" target="_blank">SkyPrognos</a>** · [Demo](https://skyprognos.streamlit.app/) | 🧠 **AI / Digital Twin** | Aviation fleet health & predictive maintenance platform predicting engine Remaining Useful Life (RUL) with ~11.9 RMSE. PyTorch models exported to ONNX (~2.7ms CPU inference) with interactive Streamlit Digital Twin command center. |
+| **<a href="https://github.com/North-Abyss/SkyPrognos" target="_blank">SkyPrognos</a>** · [Demo](https://skyprognos.streamlit.app/) | 🧠 **AI / Digital Twin** | Aviation fleet health & predictive maintenance platform predicting engine Remaining Useful Life (RUL) with ~11.9 RMSE using PyTorch models and an interactive Streamlit Digital Twin command center. |
 | **<a href="https://github.com/North-Abyss/ui-themes" target="_blank">Universal UI Themes</a>** · [Demo](https://north-abyss.github.io/ui-themes/) | 🎨 **Design System** | 22 production-ready, zero-dependency universal UI themes & design token presets (Material 3, Glassmorphism, Claymorphism, Tokyo Night) in 100% pure Vanilla CSS. |
 | **<a href="https://github.com/North-Abyss/Trackify-Flutter" target="_blank">Trackify</a>** · [Web App](https://north-abyss.github.io/Trackify-Flutter/) | 📱 **Mobile & Web** | High-performance productivity tracker with Provider state management, persistent storage, and claymorphic UI across Web, Android, Linux. |
 | **<a href="https://github.com/North-Abyss/Enterprise-Home-Lab" target="_blank">Enterprise Home Lab</a>** | 🐧 **SysAdmin & Linux** | Custom Linux virtualization environment (KVM/QEMU) on Rocky Linux & Arch with Docker containers and automated Bash health checks. |
